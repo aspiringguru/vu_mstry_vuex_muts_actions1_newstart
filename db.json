@@ -197,6 +197,42 @@
       "date": "",
       "time": "",
       "attendees": []
+    },
+    {
+      "id": 452520,
+      "user": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "category": "food",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "1111111",
+      "description": "111111",
+      "location": "loc",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 1303832,
+      "user": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "category": "housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "test11",
+      "description": "testdesc",
+      "location": "testlocation",
+      "date": "2019-03-08T07:29:00.000Z",
+      "time": "17:00",
+      "attendees": []
     }
   ]
 }
